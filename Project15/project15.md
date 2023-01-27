@@ -630,10 +630,10 @@ Pasting the url http://wordpress.krisqriz.ga/ and http://www.tooling.krisqriz.ga
 
 ![](./images/wordpress%20login.png)
 
-![](./images/wordpress%20login%202.png)
+![](./images/wordpress%20login%20202.png)
 
 - **Tooling:**
 
-![](./images/tooling%2520login.png)
+![](./images/tooling%20login.png)
 
 ### End of Project....
