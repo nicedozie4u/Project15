@@ -637,3 +637,6 @@ Pasting the url http://wordpress.krisqriz.ga/ and http://www.tooling.krisqriz.ga
 ![](./images/tooling%20login.png)
 
 ### End of Project....
+
+
+Click this link for resouces used in this project [Resources](https://github.com/Livingstone95/ACS-project-config?lang=en)
