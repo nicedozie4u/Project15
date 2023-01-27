@@ -3,7 +3,7 @@
 
 This project demostrates how a secure infrastructure inside AWS VPC (Virtual Private Cloud) network is built for a particular company, who uses WordPress CMS for its main business website, and a Tooling Website for their DevOps team. As part of the company’s desire for improved security and performance, a decision has been made to use a reverse proxy technology from NGINX to achieve this. The infrastructure will look like following diagram:
 
-![](./images/proj%20arch.png)
+![](./images/proj%2520arch.png)
 
 ### Starting Off my AWS Cloud Project
 
@@ -468,7 +468,9 @@ select instance > Action > image and templates > create image
 
 NOTE: Based on my Internal Load balancer configuration, my default preference, all traffic is forwarded to the webserver. I will now set a rule to catch tooling request and forward to tooling target.
 
+```
 Select int-ALB > Listeners > view/edit rules > insert rule > Add condition > Host header > Add action > Forward to > tooling target grp > Save
+```
 
 ![](./images/conf%20rule%201.png)
 
